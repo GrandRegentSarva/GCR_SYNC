@@ -283,6 +283,4 @@ gcr-sync/
 
 ---
 
-## 📄 License
 
-MIT
