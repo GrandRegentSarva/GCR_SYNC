@@ -1,0 +1,17 @@
+# Google APIs
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+
+# HTTP
+requests>=2.31.0
+httplib2>=0.22.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# AI Summary (Groq)
+groq>=0.4.0
+
+# Type checking support
+typing-extensions>=4.8.0
